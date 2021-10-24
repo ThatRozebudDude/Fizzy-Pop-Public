@@ -1,0 +1,25 @@
+:music:fppCutscene:1
+:bg:bg:
+:effect:enterStageLeft:0.8
+:emmy:annoyed:...!
+:emmy:annoyed:Alright, smooth moves little man, now try this!
+:bg:emmi:
+:effect:enterStageLeft:0.8
+:emmy2:H3:Ahhh!~ Now *this* is a lot better... 
+:effect:rightSide:
+:sound:what:
+:effect:enterStageRight:0.8
+:bf:soul:what
+:emmy2:H1:Hahah...So, how's this?~
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:gf:smile:Wow! What an unnecessarily elaborate transformation.
+:emmy2:H2:Impressed?~
+:effect:rightSide:
+:gf:smile:you look like a hot topic dumpster
+:emmy2:H2:Tell ya what, midget man, you've actually made this real fun for me...
+:emmy2:dark1:How about I pay back the favor...in *full force?!* 
+:effect:rightSide:
+:gf:happy:Take her down, .XML! Show this big bully who's the boss!
+:emmy2:dark2:Ahaha, get ready! It's ***Emmi's comeback tour!!!***
+

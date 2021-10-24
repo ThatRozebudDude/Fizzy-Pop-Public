@@ -1,0 +1,27 @@
+:music:fppCutscene:1
+:bg:bgintro:
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:gf:smile:What are you so afraid of? We're just here to get a soda, aren't we?
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:bf:shit:bop.
+:effect:rightSide:
+:bg:bg:
+:gf:default:Look! There's a machine over there!
+:effect:rightSide:
+:gf:scared:See? Nothing to be sca-AH!
+:effect:black:
+:effect:enterStageLeft:0.8
+:emmy:default:...?
+:effect:resetColor:
+:emmy:annoyed:Visitors?
+:emmy:annoyed:Oh, you must be those *brats* that've been lurking 'round and causing a ruckus, huh?
+:effect:rightSide:
+:gf:smile:Oh, no, actually we're ju--
+:emmy:annoyed:No worries. I'd simply *hex* you and get it over with, but I am in dire need of some human subjects..
+:emmy:smile:How's this. Best me in a singing battle, and l'll let you go.
+:effect:rightSide:
+:bf:thumbsup:ski bop bo beep!
+:emmy:smile:That's the spirit! Have at you!
+

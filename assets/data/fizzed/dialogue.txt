@@ -1,0 +1,15 @@
+:music:fppCutscene:1
+:bg:bg:
+:effect:enterStageLeft:0.8
+:emmy:smile:Hahahaha, that was great, midget guy! You normally rap this good?
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:bf:default:beep
+:emmy:default:Whew, haven't had a round that good in ages! Care for a pop?
+:effect:rightSide:
+:bf:thumbsup:bep!
+:emmy:smile:Ah, ah, ah!~ Best me in another song, and it's aaaall yours, fellow!
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:gf:default:What a dickhead.
+:emmy:sad:[slightly upset] hey

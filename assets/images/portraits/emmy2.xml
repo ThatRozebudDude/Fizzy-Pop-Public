@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Emmi_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Emmi1.png instance 1" x="15" y="15" width="1407" height="1579"/>
+	<SubTexture name="Emmi2.png instance 1" x="1437" y="15" width="1364" height="1564"/>
+	<SubTexture name="Emmi3.png instance 1" x="2816" y="15" width="1409" height="1565"/>
+	<SubTexture name="Emmi4.png instance 1" x="4240" y="15" width="1370" height="1581"/>
+	<SubTexture name="Emmi5.png instance 1" x="5625" y="15" width="1648" height="1571"/>
+</TextureAtlas>

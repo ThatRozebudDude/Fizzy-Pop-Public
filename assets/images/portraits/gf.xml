@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF1.png instance 1" x="15" y="15" width="1332" height="1428"/>
+	<SubTexture name="GF2.png instance 1" x="1362" y="15" width="1336" height="1428"/>
+	<SubTexture name="GF3.png instance 1" x="2713" y="15" width="1330" height="1438"/>
+	<SubTexture name="GF4.png instance 1" x="15" y="1468" width="1668" height="1689"/>
+	<SubTexture name="GF5.png instance 1" x="1698" y="1468" width="1335" height="1436"/>
+</TextureAtlas>

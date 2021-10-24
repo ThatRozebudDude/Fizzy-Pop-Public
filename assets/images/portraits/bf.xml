@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confused" x="0" y="1377" width="1239" height="1377"/>
+	<SubTexture name="default" x="1239" y="1377" width="1239" height="1377"/>
+	<SubTexture name="shit" x="0" y="0" width="1239" height="1377"/>
+	<SubTexture name="soul" x="1239" y="0" width="1239" height="1377"/>
+	<SubTexture name="thumbsup" x="0" y="2754" width="1240" height="1330"/>
+</TextureAtlas>
