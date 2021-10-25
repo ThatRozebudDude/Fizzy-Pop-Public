@@ -336,11 +336,9 @@ class PlayState extends MusicBeatState
 		var gfVersion:String = 'gf';
 
 		if (SONG.gf == null) {
-			switch(storyWeek)
+			switch(SONG.song.toLowerCase())
 			{
-				case 4: gfVersion = 'gf-car';
-				case 5: gfVersion = 'gf-christmas';
-				case 6: gfVersion = 'gf-pixel';
+				case "glamour": gfVersion = 'gf-cola';
 			}
 
 			SONG.gf = gfVersion;
